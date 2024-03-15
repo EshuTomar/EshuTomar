@@ -1,3 +1,5 @@
+![logo](https://github.com/EshuTomar/EshuTomar/blob/main/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Eshu Tomar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
