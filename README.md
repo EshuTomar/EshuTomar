@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eshutomar1@gmail.com**
 
-- 📄 Know about my experiences [https://eshu-tomar.netlify.app/](https://eshu-tomar.netlify.app/)
+  
 
 - ⚡ Fun fact **I can type at the speed of light when the Wi-Fi is strong and the coffee is stronger... or is it the other way around?🤔😅**
 
