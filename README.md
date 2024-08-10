@@ -12,12 +12,12 @@
 </div>
 <h1 align="center">Hey there 👋 <br/>
 I'm Eshu Tomar</h1>
-<h3 align="left">👩‍💻 About Me</h3>
+<h2 align="left">👩‍💻 About Me</h2>
 <p align="left">I'm a Full-Stack Developer from India.<br><br>- 🔭 I’m currently working on various web development projects.<br>- 📚 I'm currently learning advanced backend system design and microservices.<br>- ⚡ In my free time, I love to explore new technologies, work on side projects.
 <br>-💬 Ask me about **MERN**
 <br>-📫 How to reach me **eshutomar1@gmail.com**
 </p>
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">🛠 Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -47,7 +47,7 @@ I'm Eshu Tomar</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
   <img width="12" />
   </div>
-<h3 align="left">🔥 My Stats :</h3>
+<h2 align="left">🔥 My Stats :</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EshuTomar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
