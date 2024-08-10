@@ -57,4 +57,8 @@ I'm Eshu Tomar</h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EshuTomar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshuTomar&layout=compact&theme=dark&hide_border=false" height="200" alt="languages graph" />
+</div>
+
 <hr/>
