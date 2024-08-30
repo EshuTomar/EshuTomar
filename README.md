@@ -61,6 +61,22 @@ I'm Eshu Tomar</h1>
   <img width="12" />
   </div>
   <hr/>
+  <h2 align="left">🚀My Projects Journey</h2>
+
+| Project Name | Description | Technologies | Github Link |
+| ------------ | ----------- | ------------ | --------- |
+| MoneyMap | A financial tracking web app for managing budgets and expenses. | React, Firebase, Chart.js |[View code](https://github.com/EshuTomar/moneyMap-finance-tracker) |
+| CodeTogether | Real-time code collaboration platform with live editing features. | React, Node.js, Express.js, Firebase, WebSockets | [View code](https://codetogether.com) |
+| Video Streaming Application | A video streaming app with seamless playback and user management. | Node.js, Express.js, React, MongoDB, FFmpeg | [View code](https://github.com/EshuTomar/Video_streaming_app) |
+| LiveBoard| LiveBoard is a dynamic real-time whiteboard app that brings your ideas to life instantly. Collaborate, sketch, and share in real-time from anywhere in the world. | Node.js, Express.js, React, MongoDB| [View code](https://github.com/EshuTomar/LiveBoard) |
+| Book Exchange Platform | A platform for exchanging books with other users based on preferences. | React, Firebase, Node.js | [View code](https://github.com/EshuTomar/book_exchange_app) |
+| Portfolio | A modern portfolio website showcasing my full-stack development skills | React, Router, Redux,  | [View code](https://github.com/EshuTomar/Portfolio) |
+| Movie Watchlist App | A personalized movie watchlist app that allows you to search, categorize, and manage your favorite, watched, and unwatched movies seamlessly.  |React.js, react-router-dom | [View code](https://github.com/EshuTomar/movie-watchlist-app) |
+| Employee Review System | A comprehensive employee review system for managing performance evaluations, feedback, and goal tracking with intuitive interfaces and actionable insights. | Node.js, Express.js, MongoDB, EJS | [View code](https://github.com/EshuTomar/Employee-review-system) |
+| Calendar App | A simple calendar application built with React that allows users to view full calendar, add / edit or delete events | React.js | [View code](https://github.com/EshuTomar/Calendar_app) |
+| ChitChat | A real-time chat application built with React for seamless and interactive communication | React.js, Node.js, ExpressJs, MongoDB | [View code](https://github.com/EshuTomar/ChitChat) |
+| Habit tracker | A habit tracker app designed to help you build and maintain positive routines with daily tracking, progress visualization, and motivational reminders. | Ejs, Node.js, ExpressJs, MongoDB | [View code](https://github.com/EshuTomar/Habit-tracker) |
+<hr/>
 <h2 align="left">🔥 My Stats :</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EshuTomar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
