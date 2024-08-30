@@ -67,7 +67,7 @@ I'm Eshu Tomar</h1>
 | ------------ | ----------- | ------------ | --------- |
 | MoneyMap | A financial tracking web app for managing budgets and expenses. | React, Firebase, Chart.js |[Explore](https://github.com/EshuTomar/moneyMap-finance-tracker) |
 | CodeTogether | Real-time code collaboration platform with live editing features. | React, Node.js, Express.js, Firebase, WebSockets | [View code](https://codetogether.com) |
-| Video Streaming Application | A video streaming app with seamless playback and user management. | Node.js, Express.js, React, MongoDB, FFmpeg | [View code](https://github.com/EshuTomar/Video_streaming_app) |
+| Video Streaming Application | A video streaming app with seamless playback and user management. | Node.js, Express.js, React, MongoDB, FFmpeg, HLS | [View code](https://github.com/EshuTomar/Video_streaming_app) |
 | LiveBoard| LiveBoard is a dynamic real-time whiteboard app that brings your ideas to life instantly. Collaborate, sketch, and share in real-time from anywhere in the world. | Node.js, Express.js, React, MongoDB| [View code](https://github.com/EshuTomar/LiveBoard) |
 | Book Exchange Platform | A platform for exchanging books with other users based on preferences. | React, Firebase, Node.js | [View code](https://github.com/EshuTomar/book_exchange_app) |
 | Portfolio | A modern portfolio website showcasing my full-stack development skills | React, Router, Redux,  | [View code](https://github.com/EshuTomar/Portfolio) |
